@@ -18,8 +18,8 @@ Este projeto é uma ferramenta de **escaneamento de portas com captura de banner
 
 ## Projeto criado por Dante Dantas como parte de seu portfólio para atuação em Cibersegurança e Segurança Ofensiva.
 
-## 📬 Contato: seuemail@exemplo.com
-## 🌐 LinkedIn: SeuLinkedIn
-## 🐙 GitHub: SeuGitHub
+## 📬 Contato: dantedantasloc@gmail.com
+## 🌐 LinkedIn: https://www.linkedin.com/in/dantelimadantas/
+## 🐙 GitHub: https://github.com/dante8941
 
 
