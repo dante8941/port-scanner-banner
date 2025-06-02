@@ -13,7 +13,7 @@ Este projeto é uma ferramenta de **escaneamento de portas com captura de banner
 
 1. **Clone o repositório ou baixe o arquivo**:
    ```bash
-   git clone https://github.com/SeuUsuario/nome-do-repo.git
+   git clone https://github.com/dante8941/port-scanner-banner.git
    cd nome-do-repo
 
 ## Projeto criado por Dante Dantas como parte de seu portfólio para atuação em Cibersegurança e Segurança Ofensiva.
